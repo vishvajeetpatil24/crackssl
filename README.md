@@ -1,6 +1,6 @@
 # CrackSSL
 
-**The compilation of demos and proof of concepts of attacks on SSL/TLS protocol and libraries.**
+**The compilation of demos and proof of concepts of vulnerability exploits of SSL/TLS protocol and related libraries.**
 
 There will be two kinds of vulnerabilities under study.
 
