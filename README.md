@@ -9,6 +9,6 @@ There will be two kinds of vulnerabilities under study.
 
 ###### Current Status of Project
 
-* Current Vulnerability      -> CVE-2014-0160
+* Current Vulnerability      -> [CVE-2014-0160](https://cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2014-0160)
 * Current Vulnerability Type -> Software
 * Library/Software           -> OpenSSL
